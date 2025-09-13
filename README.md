@@ -1,3 +1,3 @@
 # VHDL-Based-Audio-Controller
 Author : Sana Ehsan <br>
-This is my first git repository and I have designed an audio codec controller. Project contains many subprograms which are the basic blocks of the project.The purpose of the RTL design is to transmit an audio signal and control the audio based on sampling rate. FPGA is used to do this in a fast and parallel manner rather than DSP.
+This is my first git repository and I have designed an audio codec controller. Project contains many subprograms which are the basic blocks of the project.The purpose of the RTL design is to transmit an audio signal and control the audio based on sampling rate. FPGA is used to do this in a fast and parallel manner rather than DSP.The project also contains testbench files.
